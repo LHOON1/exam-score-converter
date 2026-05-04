@@ -1,4 +1,4 @@
-## Project
+# Exam Score Converter
 
 A Python script that converts raw exam scores (out of 100) to a grade out of 20, using an exponential curve calibrated so that the cutoff score maps exactly to 10/20.
 
